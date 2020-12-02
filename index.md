@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Personalized Home Care Services
 
-You can use the [editor on GitHub](https://github.com/caregiver-services/care.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our Toronto Services Include but not limited to:
+- Personal Care: bathing, dressing, foot care, personal hygiene
+- House Keeping Services
+- Supervised Medication reminders
+- Care during the stay at a hospital or a retirement home
+- Accompanying services to a shopping mall or to doctors’ offices
+- Meal Planning and preparation
+- Skilled Companionship
+- End of life care
 
-### Markdown
+### Companionship Care
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Everyone needs a friend, whether it is for accompanying them to the mall or the doctors’ offices, we have you covered. We do our very best to match our clients with a caregiver that they feel the most comfortable with. We offer services such as providing a caregiver that speaks the same language as the client, or one who can cook their favourite meals. Making sure our clients feel at peace in their own home is our responsibility and we are determined to make that happen.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Personal Care
 
-- Bulleted
-- List
+We want to ensure that clients are at ease within his or her own home and has their personal needs met. This means that they can live independently without suffering through the difficulty of not having their personal needs met. Our caregivers are trained in all aspects of care such as laundry, light housekeeping, planning and preparing meals, bathing, medication reminders etc.
 
-1. Numbered
-2. List
+# Contact Us
+## Aimee
 
-**Bold** and _Italic_ and `Code` text
+- My Contact Phone Number: 647 832 2031
 
-[Link](url) and ![Image](src)
-```
+<!-- modify this form HTML and place wherever you want your form -->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<form
+  action="https://formspree.io/f/xrgokwvg"
+  method="POST"
+>
 
-### Jekyll Themes
+  <br><label>
+    Your email:
+    <br><input type="text" name="_replyto">
+  </label>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caregiver-services/care.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  <br><label>
+    Your message:
+    <br><textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <br><label>
+    Your phone number:
+    <br><input type="text" name="phone">
+  </label>
 
-### Support or Contact
+  <br><br><br><button type="submit">Send</button>
+</form>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out our [facebook page](https://facebook.com) or [contact support](https://github.com/contact) 
