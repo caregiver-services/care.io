@@ -47,4 +47,4 @@ We want to ensure that clients are at ease within his or her own home and has th
   <br><br><br><button type="submit">Send</button>
 </form>
 
-Check out our [facebook page](https://facebook.com) or [contact support](https://github.com/contact) 
+Check out our [facebook page](https://www.facebook.com/claire.srvcs.9)
