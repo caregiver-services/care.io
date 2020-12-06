@@ -25,7 +25,7 @@ We want to ensure that clients are at ease within his or her own home and has th
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form
-  action="https://formspree.io/f/xrgokwvg"
+  action="https://formspree.io/f/mqkgykek"
   method="POST"
 >
 
